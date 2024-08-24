@@ -10,18 +10,18 @@
   <strong>An interactional CV I built with Unity Engine</strong>
 </div>
 
-Control the rocket to discover multiple planet, each fill with its own unique aspect of myself, or you can just fast travel, which ever you think its best. After discover every planet, it will be filled with facilities that you can explore by click on it. Just that, not much, but it have some unique feature that you don't find anywhere am I right? Especially with a knowledge focus on AI like myself, not many can have such fluent Unity skill, or maybe I am wrong, i don't know.
+Control the rocket to discover multiple planets, each filled with its unique aspect of myself, or you can just fast-travel, whichever you think is best. After discovering every planet, it will be filled with facilities you can explore by clicking on it. Just that, not much, but it has some unique features you won't find anywhere, am I right? Especially with a knowledge focus on AI like myself, not many can have such fluent Unity skills, or maybe I am wrong; I don't know.
 
 **Anyway, enjoy the game and explore the space.**
 
 
 ## Play
 
-Go to release section, the about section, its everywhere! Good luck with your journey, explorer!
+Go to the release section, the about section, it is everywhere! Good luck with your journey, explorer!
 
 ## Documentation
 
-Sadly this is just a CV, It itself is a document.
+Sadly this is just a CV, It is a document.
 
 ## Preview
 **Gameplay**
@@ -44,5 +44,5 @@ Sadly this is just a CV, It itself is a document.
 These are the many ways you can help:
 
 - Submit patches and features
-- Recommendation to this game by email me on htglvl@gmail.com
+- Recommendation to this game by emailing me at htglvl@gmail.com
 - Report bugs
